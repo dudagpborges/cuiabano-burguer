@@ -63,3 +63,11 @@ header {
     color: var(--color-netral-1);
     border-bottom: 3px solid var(--color-primary-4);
 }
+
+#mobile_btn {
+    display: none;
+}
+
+#mobile_menu {
+    display: none;
+}
