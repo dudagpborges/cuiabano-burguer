@@ -124,11 +124,14 @@ Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 
 ## Autor
 
-<div align="center"> <img src="https://github.com/dudagpborges" width="100px" height="100px" style="border-radius: 50%"/> 
+<div align="center"> 
+
+<img src="https://github.com/dudagpborges" width="100px" height="100px" style="border-radius: 50%"/> 
 
 <br> 
 
-💡 **Desenvolvido por [Eduarda]https://github.com/dudagpborges)** </div>
+💡 **Desenvolvido por **[Eduarda](https://github.com/dudagpborges)** 
+</div>
 
 <br> 
 
