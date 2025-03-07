@@ -126,7 +126,7 @@ Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 
 <div align="center"> 
 
-<img src="https://github.com/dudagpborges" width="100px" height="100px" style="border-radius: 50%"/> 
+<img src="https://github.com/dudagpborges.png" width="100px" height="100px" style="border-radius: 50%"/> 
 
 <br> 
 
